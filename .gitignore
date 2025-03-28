@@ -1,0 +1,19 @@
+# Ignorar carpetas de documentación y otros archivos no necesarios
+Documentation/
+Starterkit/
+Changelog/
+Ynex-js-tailwind/
+
+
+
+# Ignorar archivo específico con espacios en el nombre
+Legal\ Agreement\ \&\ Copyright\ Notice.txt
+
+# Ignorar carpeta Code si es que también no la necesitas
+Code/
+
+# Ignorar archivo de configuración
+
+package-lock.json
+
+# Ignorar archivo de configuración
